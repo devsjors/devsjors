@@ -1,6 +1,6 @@
 ### Hi there, I'm Sjors 👋
 
-- 👨‍💻 I’m currently working on a [personal project](https://github.com/devsjors/frontend-jobs)
+- 👨‍💻 I’m currently working on a [personal project](https://github.com/devsjors/track-my-healthy-lifestyle)
 - 📚 I’m currently reading [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)
 - 🌱 I'm currently learning more about testing
 
